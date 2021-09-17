@@ -2,7 +2,7 @@
 # Hello World 🙈    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeeplo&count_bg=%2381A1C1&title_bg=%2388C0D0&icon=&icon_color=%23D8DEE9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 I'm Yongwoo marco Kim _a.k.a Keeplo_  
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-81A1C1?logo=instagram&logoColor=88C0D0&fontColor=D8DEE9&link=https://www.instagram.com/keepingitflow/)](https://www.instagram.com/keepingitflow/)  [![Blog Badge](https://img.shields.io/badge/-Tistory-81A1C1?logo=KakaoTalk&logoColor=88C0D0&fontColor=D8DEE9&link=https://keeplo.tistory.com)](https://keeplo.tistory.com)  [![Blog Badge](https://img.shields.io/badge/-Velog-81A1C1?logo=KakaoTalk&logoColor=88C0D0&fontColor=D8DEE9&link=https://velog.io/@keeplo)](https://velog.io/@keeplo)  [![Mail Badge](https://img.shields.io/badge/-Gmail-81A1C1?logo=Gmail&logoColor=88C0D0&fontColor=D8DEE9&mailto:keepingitflow@gmail.com)](mailto:keepingitflow@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-81A1C1?logo=instagram&logoColor=88C0D0&fontColor=D8DEE9&link=https://www.instagram.com/keepingitflow/)](https://www.instagram.com/keepingitflow/)  [![Blog Badge](https://img.shields.io/badge/-Tistory-81A1C1?logo=KakaoTalk&logoColor=88C0D0&fontColor=D8DEE9&link=https://keeplo.tistory.com)](https://keeplo.tistory.com)  [![Mail Badge](https://img.shields.io/badge/-Gmail-81A1C1?logo=Gmail&logoColor=88C0D0&fontColor=D8DEE9&mailto:keepingitflow@gmail.com)](mailto:keepingitflow@gmail.com)
 
 [![Keeplo's github stats](https://github-readme-stats.vercel.app/api?username=Keeplo&show_icons=true&theme=nord)](https://github.com/Keeplo/github-readme-stats)
 
