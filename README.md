@@ -4,7 +4,7 @@ I'm Yongwoo marco Kim _a.k.a Keeplo_
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-81A1C1?logo=instagram&logoColor=88C0D0&fontColor=D8DEE9&link=https://www.instagram.com/keepingitflow/)](https://www.instagram.com/keepingitflow/)  [![Blog Badge](https://img.shields.io/badge/-Tistory-81A1C1?logo=KakaoTalk&logoColor=88C0D0&fontColor=D8DEE9&link=https://keeplo.tistory.com)](https://keeplo.tistory.com)  [![Mail Badge](https://img.shields.io/badge/-Gmail-81A1C1?logo=Gmail&logoColor=88C0D0&fontColor=D8DEE9&mailto:keepingitflow@gmail.com)](mailto:keepingitflow@gmail.com)
 
-[![Keeplo's github stats](https://github-readme-stats.vercel.app/api?username=keeplo&show_icons=true&theme=nord)](https://github.com/Keeplo/github-readme-stats)
+[![Keeplo's github stats](https://github-readme-stats.vercel.app/api?username=keeplo&show_icons=true&theme=nord)](https://github.com/keeplo/github-readme-stats)
 
 
 <!--
