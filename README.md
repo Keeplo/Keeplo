@@ -7,10 +7,11 @@ I'm Yongwoo marco Kim _a.k.a Keeplo_
 # Experience
 |**기간**|**소속명**|**활동명**|
 |:---:|:---|:---|
-|*2022.08.15 ~ 10.07*| 야곰 아카데미 iOS 커리어스타터 캠프 | 서포터즈 활동 |
-|*2022.06.17 ~ 09.17*| [CC 프로젝트 - MVP 앱 출시](https://github.com/PSE-Applications/CasualConversation/projects?type=classic) | Team Leader/ iOS Development |
-|*2022.06.20 ~ 07.22*| 야곰 아카데미 코드 스타터 캠프 4기 | 학습도우미 활동 |
-|*2021.05.25 ~ 11.19*| 야곰 아카데미 iOS 커리어스타터 캠프 | 3기 캠퍼 수료 |
+|**22.09.24 ~ 23.01.14** (진행중)| Depromeet 디프만 12th | 팀 iOS 파트 |
+|**22.08.15 ~ 10.07**| 야곰 아카데미 iOS 커리어스타터 캠프 | 서포터즈 활동 |
+|**22.06.17 ~ 09.17**| [CC 프로젝트 - MVP 앱 출시](https://github.com/PSE-Applications/CasualConversation/projects?type=classic) | Team Leader/ iOS Development |
+|**22.06.20 ~ 07.22**| 야곰 아카데미 코드 스타터 캠프 4기 | 학습도우미 활동 |
+|**21.05.25 ~ 11.19**| 야곰 아카데미 iOS 커리어스타터 캠프 | 3기 캠퍼 수료 |
 
 |[<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F69a38380-1115-4931-a927-6fa25b595692%2Fappstore.png?table=block&id=48bd959c-7719-4ac1-b0cb-d4e4d9b7f7a7&spaceId=e6b8a7b9-cbae-4355-941e-ce441f218386&width=2000&userId=aaeaa0fd-5da4-499b-9277-7adf273dceea&cache=v2" width="100" height="100">](https://apps.apple.com/kr/app/id1642134370/)|Casual<br>Conversation|[README](https://github.com/PSE-Applications/CasualConversation/blob/main/README.md)<br>[AppStore](https://apps.apple.com/kr/app/casualconversation/id1642134370)|
 |:---:|:---:|:---:|
