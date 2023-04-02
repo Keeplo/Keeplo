@@ -8,8 +8,8 @@ I focus on Clean Code and Modularization
 
 ### Career
 ###### iOS Dev
-> **Anipen inc.** 2022.11 ~  
-> Open-IT - Industry-Academic Internshipment    
+> **Anipen inc. 2022.11 ~ ** 
+> Open-IT - Industry-Academic Internshipment 2016.12 ~ 17.08
 
 ### Experience
 #### 2022
