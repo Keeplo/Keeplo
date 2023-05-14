@@ -8,7 +8,8 @@ I focus on Clean Code and Modularization
 ### Career
 ###### iOS Dev
 > **Anipen inc. 2022.11** ~  
->    * 1thePic (Release AppStore) 2023.05.11 ~  
+>    * 1thePic (Release AppStore) 2023.05.11 ~    
+>    
 > Open-IT 2016.12 ~ 17.08 (Industry-Academic Internshipment)
 
 ### Experience
