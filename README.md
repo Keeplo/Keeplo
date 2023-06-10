@@ -2,12 +2,11 @@
 
 ### Hello World     
 I'm Yongwoo Marco Kim _a.k.a Keeplo_  
-I'm the one who likes `i`. iOS, iPad, iPhone... ice cream, iron man 🙈 
+The one who likes `i`. iOS, iPad, iPhone... ice cream, iron man 🙈 
 
-I focus on Clean Code and Modularization   
+I focus on Clean Code and Modularization, SwiftUI   
 Additionally, study ondevice AI/ML and Vision.   
-And fall in love with SwiftUI   
-lookin' forward to VisionOS thesedays
+lookin' forward to VisionOS these days
 
 ### Career
 ###### iOS Dev
