@@ -2,7 +2,7 @@
 
 ### Hello World     
 I'm Yongwoo Marco Kim _a.k.a Keeplo_  
-The one who likes `i`. iOS, iPad, iPhone... ice cream, iron man 🙈 
+The one I like is `i`. iOS, iPad, iPhone... ice cream, iron man 🙈 
 
 I focus on Clean Code and Modularization, SwiftUI   
 Additionally, study On-Device AI/ML and Vision.   
@@ -11,7 +11,7 @@ lookin' forward to VisionOS these days
 ### Career
 ###### iOS Dev
 > **Anipen inc. 2022.11** ~  
-> Open-IT - Industry Academic Internshipment
+> Open-IT - Industry Academic Internshipment **2016.12 ~ 2017.08**
 
 ### Experience
 #### 2023
