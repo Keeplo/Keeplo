@@ -18,7 +18,13 @@ lookin' forward to VisionOS these days
 
 ###### Experience
 **2023**
-> Launched App Project working for Anipen inc. / [1thePic](https://apps.apple.com/kr/app/1thepic/id6448253916)
+> Launching App Project working for [Anipen inc.](https://www.anipen.com/)
+>    - [1thePic](https://apps.apple.com/kr/app/1thepic/id6448253916)
+>    - [BerryMoji](https://www.anipen.com/) (출시예정)
+
+> Reviewing by Mentor at [Tasty Code](https://www.tastycode.kr/)
+>    - [SeSAC 동대문 1기 AI활용 iOS 앱 개발자 부트캠프](https://sesac.seoul.kr/course/active/detail.do) Code Reviwer
+>    - SeSAC 용산 2기 iOS 앱 개발자 부트캠프 Mentor
 
 **2022**
 > Depromeet 12th / [Ticlemoa](https://apps.apple.com/kr/app/ticlemoa/id1659267166)      
