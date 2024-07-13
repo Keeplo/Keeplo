@@ -17,10 +17,14 @@ lookin' forward to VisionOS these days
 ---
 
 ###### Experience
+**2024**
+> Participate in [let us: Hack! 2024 찍먹톤](https://www.instagram.com/p/C7nofgrvPth/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)   
+> Launching App Project working for [Anipen inc.](https://www.anipen.com/)
+>    - [BerryMoji](https://apps.apple.com/kr/app/%EB%B2%A0%EB%A6%AC%EB%AA%A8%EC%A7%80/id6504273337)
+
 **2023**
 > Launching App Project working for [Anipen inc.](https://www.anipen.com/)
 >    - [1thePic](https://apps.apple.com/kr/app/1thepic/id6448253916)
->    - [BerryMoji](https://apps.apple.com/kr/app/%EB%B2%A0%EB%A6%AC%EB%AA%A8%EC%A7%80/id6504273337)
 
 > Reviewing by Mentor at [Tasty Code](https://www.tastycode.kr/)
 >    - [SeSAC 동대문 1기 AI활용 iOS 앱 개발자 부트캠프](https://sesac.seoul.kr/course/active/detail.do) Code Reviwer
