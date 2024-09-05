@@ -5,41 +5,42 @@ I'm Yongwoo Marco Kim _a.k.a Keeplo_
 The one I like is `i`. iOS, iPad, iPhone... ice cream, iron man 🙈 
 
 I focus on Clean Code and Modularization, SwiftUI   
-Additionally, study On-Device AI/ML and Vision.   
+Additionally study On-Device AI/ML and Vision.   
 lookin' forward to VisionOS these days
 
 ###### Career
 **iOS Native Dev**
 
-> **Anipen inc. 2022.11** ~  
-> Open-IT - Industry Academic Internshipment **2016.12 ~ 2017.08**
+> - **[Anipen inc.](https://www.anipen.com/)** 2022.11 ~
+>   - App launched [BerryMoji](https://apps.apple.com/kr/app/%EB%B2%A0%EB%A6%AC%EB%AA%A8%EC%A7%80/id6504273337) (2024)
+>   - App launched [1thePic](https://apps.apple.com/kr/app/1thepic/id6448253916) (2023)
+> - **[Open-IT](http://open-it.co.kr/~open-it/index.php)** 2016.12 ~ 2017.08
+>   - Industry Academic Internshipment
 
 ---
 
 ###### Experience
 **2024**
-> Participate in [let us: Hack! 2024 찍먹톤](https://www.instagram.com/p/C7nofgrvPth/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)   
-> Launching App Project working for [Anipen inc.](https://www.anipen.com/)
->    - [BerryMoji](https://apps.apple.com/kr/app/%EB%B2%A0%EB%A6%AC%EB%AA%A8%EC%A7%80/id6504273337)
+> - Participate in [let us: Hack! 2024 찍먹톤](https://www.instagram.com/p/C7nofgrvPth/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)   
 
 **2023**
-> Launching App Project working for [Anipen inc.](https://www.anipen.com/)
->    - [1thePic](https://apps.apple.com/kr/app/1thepic/id6448253916)
+> - [let us: GO! 2023 fall](https://letusgo2023fall.vercel.app/) [CoreML과 VisionKit 그리고 온디바이스 AI에 대한 이야기](https://www.youtube.com/watch?v=yiCb3dqJXmg&list=PL03rJBlpwTaDcTTNVMETmglJZpM-GuPm3&index=6) - speaker
 
-> Reviewing by Mentor at [Tasty Code](https://www.tastycode.kr/)
->    - [SeSAC 동대문 1기 AI활용 iOS 앱 개발자 부트캠프](https://sesac.seoul.kr/course/active/detail.do) Code Reviwer
+> - [Tasty Code](https://www.tastycode.kr/)
+>    - [SeSAC 동대문 1기 AI활용 iOS 앱 개발자 부트캠프](https://sesac.seoul.kr/course/active/detail.do) - Code Reviwer
 >    - SeSAC 용산 2기 iOS 앱 개발자 부트캠프 Mentor
 
 **2022**
-> Depromeet 12th / [Ticlemoa](https://apps.apple.com/kr/app/ticlemoa/id1659267166)      
-> Yagom Academy iOS Carrier Starter Camp - Supporter  
-> Team Marcoda Project / [Casual Conversation](https://github.com/PSE-Applications/CasualConversation/projects?type=classic)  
-> Yagom Academy Code Starter Camp 4th - Learning Helper   
+> - Depromeet 12th - App launched [Ticlemoa](https://apps.apple.com/kr/app/ticlemoa/id1659267166)      
+> - Personal Team Marcoda - App launched [Casual Conversation](https://github.com/PSE-Applications/CasualConversation/projects?type=classic)  
+> - [Yagom Academy](https://www.yagom-academy.kr/)
+>   - [iOS Carrier Starter Camp](https://www.yagom-academy.kr/camp/career-starter) - Supporter    
+>   - [Code Starter Camp](https://www.yagom-academy.kr/camp/code-starter) 4th - Learning Helper   
 
-**Educations**
-> Yagom Academy - iOS Carrier Starter Camp 3th   
-> Principle School of English   
-> Konkuk University Glocal Campus - Bachelor Science in Computer Engineering    
+###### Educations
+> - Yagom Academy - iOS Carrier Starter Camp 3th   
+> - Principle School of English   
+> - Konkuk University Glocal Campus - Bachelor Science in Computer Engineering    
 
 --- 
 
