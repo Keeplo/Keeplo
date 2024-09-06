@@ -21,14 +21,14 @@ lookin' forward to VisionOS these days
 
 ###### Experience
 **2024**
-> - Participate in [let us: Hack! 2024 찍먹톤](https://www.instagram.com/p/C7nofgrvPth/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)   
+> - [let us: Hack! 2024 찍먹톤](https://www.instagram.com/p/C7nofgrvPth/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) - Team 2 Save us
 
 **2023**
 > - [let us: GO! 2023 fall](https://letusgo2023fall.vercel.app/) [CoreML과 VisionKit 그리고 온디바이스 AI에 대한 이야기](https://www.youtube.com/watch?v=yiCb3dqJXmg&list=PL03rJBlpwTaDcTTNVMETmglJZpM-GuPm3&index=6) - speaker
 
 > - [Tasty Code](https://www.tastycode.kr/)
 >    - [SeSAC 동대문 1기 AI활용 iOS 앱 개발자 부트캠프](https://sesac.seoul.kr/course/active/detail.do) - Code Reviwer
->    - SeSAC 용산 2기 iOS 앱 개발자 부트캠프 Mentor
+>    - SeSAC 용산 2기 iOS 앱 개발자 부트캠프 - Mentor
 
 **2022**
 > - Depromeet 12th - App launched [Ticlemoa](https://apps.apple.com/kr/app/ticlemoa/id1659267166)      
